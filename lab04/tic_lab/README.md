@@ -12,3 +12,4 @@ student id - 300159189
 ![Commit 6](screenshots/commit6.PNG)
 ![Commit 7](screenshots/commit7.PNG)
 
+github repo link for lab04 - https://github.com/MoDeraz/seg3505_playground/tree/main/lab04
